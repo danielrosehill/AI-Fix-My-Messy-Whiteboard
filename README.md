@@ -6,7 +6,7 @@ A local AI utility for cleaning up whiteboard photographs using image-to-image p
 
 ![Before and after comparison](demos/sbs/2.png)
 
-## Overview
+# Overview
 
 Whiteboard Processor transforms messy whiteboard photos into clean, professional diagrams. It uses various image generation models through Replicate's API to redraw whiteboard content with:
 
@@ -81,13 +81,13 @@ Place test images in `eval/source/` and the script will run them through all con
 
 ---
 
-## Replicate Comparison (Dec 02, 2025)
+# Replicate Comparison (Dec 02, 2025)
 
 Original whiteboard with text annotations:
 
 ![alt text](demos/annotated/original.png)
 
-### Flux Pro 1.1
+## Flux Pro 1.1
 
 Pseudotext: high 
 Misinterpretation of system prompt
@@ -96,7 +96,7 @@ Misinterpretation of system prompt
 
 ---
 
-### Flux 1.1 Kontext
+## Flux 1.1 Kontext
 
 No pseudotext - excellent replication of handwriting
 
@@ -104,7 +104,7 @@ No pseudotext - excellent replication of handwriting
 
 ---
  
-### Nano Banana
+## Nano Banana
 
 Pseudotext: Clawpe could have been inferred around. 
 Followed colorisation instruction. 
@@ -113,7 +113,7 @@ Followed colorisation instruction.
 
 ---
 
-### Nano Banana Pro
+## Nano Banana Pro
 
 Best Overall 
 
@@ -123,7 +123,7 @@ Inferred Claude from Clawpe (non-Pro version didn't!)
 
 ---
 
-### Qwen Image Edit
+## Qwen Image Edit
 
 Highest level of pseudotext in any of the models
 
@@ -131,7 +131,7 @@ Highest level of pseudotext in any of the models
 
 ---
 
-### Qwen Image Edit Plus
+## Qwen Image Edit Plus
  
 ![alt text](demos/annotated/6.png)
 
