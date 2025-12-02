@@ -1,4 +1,6 @@
-# Whiteboard Processor
+# AI, Fix My Messy Whiteboard!
+
+[![GitHub](https://img.shields.io/badge/repo-AI--Fix--My--Messy--Whiteboard-blue?logo=github)](https://github.com/danielrosehill/AI-Fix-My-Messy-Whiteboard)
 
 A local AI utility for cleaning up whiteboard photographs using image-to-image processing models via Replicate.
 
