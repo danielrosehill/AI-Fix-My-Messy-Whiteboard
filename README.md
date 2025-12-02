@@ -89,11 +89,16 @@ Original whiteboard with text annotations:
 
 ### Flux Pro 1.1
 
+Pseudotext: high 
+Misinterpretation of system prompt
+
 ![alt text](demos/annotated/1.png)
 
 ---
 
 ### Flux 1.1 Kontext
+
+No pseudotext - excellent replication of handwriting
 
 ![alt text](demos/annotated/2.png)
 
@@ -101,17 +106,26 @@ Original whiteboard with text annotations:
  
 ### Nano Banana
 
+Pseudotext: Clawpe could have been inferred around. 
+Followed colorisation instruction. 
+
 ![alt text](demos/annotated/3.png)
 
 ---
 
 ### Nano Banana Pro
 
+Best Overall 
+
+Inferred Claude from Clawpe (non-Pro version didn't!)
+
 ![alt text](demos/annotated/4.png)
 
 ---
 
 ### Qwen Image Edit
+
+Highest level of pseudotext in any of the models
 
 ![alt text](demos/annotated/5.png)
 
