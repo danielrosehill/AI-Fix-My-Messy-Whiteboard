@@ -91,21 +91,31 @@ Original whiteboard with text annotations:
 
 ![alt text](demos/annotated/1.png)
 
+---
+
 ### Flux 1.1 Kontext
 
 ![alt text](demos/annotated/2.png)
+
+---
  
 ### Nano Banana
 
 ![alt text](demos/annotated/3.png)
 
+---
+
 ### Nano Banana Pro
 
 ![alt text](demos/annotated/4.png)
 
+---
+
 ### Qwen Image Edit
 
 ![alt text](demos/annotated/5.png)
+
+---
 
 ### Qwen Image Edit Plus
  
