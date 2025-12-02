@@ -1,0 +1,21 @@
+Evaluation Run: 20251202-160114
+Prompt:
+Transform this whiteboard photograph into a clean, professional diagram.
+
+Create a NEW image with:
+- Clean, solid MATTE WHITE background (not the original whiteboard)
+- Clear, legible text preserving the original wording exactly
+- Professional lines, arrows, and shapes with a hand-drawn sketch aesthetic
+- Subtle colors to distinguish elements and improve clarity
+
+Preserve the layout and spatial relationships. Use standard icons where appropriate (cylinders for databases, rectangles for systems). Fix incomplete elements. Omit board edges, reflections, erasers, and other incidental items from the photo.
+
+The result should look like a polished whiteboard diagram ready for a professional presentation.
+
+Results:
+  1.png + flux-kontext-pro: success
+  1.png + flux-1.1-pro: success
+  1.png + qwen-image-edit: success
+  1.png + qwen-image-edit-plus: success
+  1.png + nano-banana: success
+  1.png + nano-banana-pro: success
