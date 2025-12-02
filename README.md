@@ -4,7 +4,7 @@
 
 A local AI utility for cleaning up whiteboard photographs using image-to-image processing models via Replicate.
 
-![Before and after comparison](demos/sbs/1.png)
+![Before and after comparison](demos/sbs/2.png)
 
 ## Overview
 
@@ -79,29 +79,39 @@ python run_eval.py
 
 Place test images in `eval/source/` and the script will run them through all configured models, saving results to timestamped folders in `eval/runs/`.
 
-## Repository Structure
+---
 
-```
-.
-├── app/                    # Main application
-│   └── process_whiteboard.py
-├── demos/                  # Before/after demo images
-├── docs/                   # Documentation (system prompt, etc.)
-├── eval/                   # Model evaluation framework
-│   ├── source/             # Test images
-│   └── runs/               # Evaluation results
-├── images/
-│   ├── originals/
-│   │   ├── queue/          # Input: images to process
-│   │   └── processed/      # Moved here after processing
-│   └── enhanced/           # Output: cleaned images
-└── run.sh                  # Quick-start script
-```
+## Replicate Comparison (Dec 02, 2025)
 
-## Future Plans
+Original whiteboard with text annotations:
 
-- GUI version may be added in the future
-- Additional model integrations as new options become available
+![alt text](demos/annotated/original.png)
+
+### Flux Pro 1.1
+
+![alt text](demos/annotated/1.png)
+
+### Flux 1.1 Kontext
+
+![alt text](demos/annotated/2.png)
+ 
+### Nano Banana
+
+![alt text](demos/annotated/3.png)
+
+### Nano Banana Pro
+
+![alt text](demos/annotated/4.png)
+
+### Qwen Image Edit
+
+![alt text](demos/annotated/5.png)
+
+### Qwen Image Edit Plus
+ 
+![alt text](demos/annotated/6.png)
+
+---
 
 ## License
 
